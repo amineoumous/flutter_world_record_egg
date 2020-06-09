@@ -1,6 +1,6 @@
 # world record egg
 
-Let&#x27;s set a world record together and get the most download App on play store
+Let&#x27;s set a world record together and get the most download App on Play Store & App Store
 
 ![Alt egg](images/egg.jpg?raw=true "Title")
 
